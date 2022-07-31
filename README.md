@@ -19,8 +19,8 @@
 ### Link Surge 
 https://labe-x-cosmos.surge.sh
 
-email: rafaelcosmos@gmail.com
-senha: chuvadepipoca
+email: atro-adm12@gmail.com
+senha: 123456
 
 ### Imagens
 #### Desktop
